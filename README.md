@@ -2,13 +2,23 @@
 
 Welcome to my **Machine Learning Projects** repository! 🚀 This repository contains machine learning projects focusing on image classification using deep learning techniques.
 
-## 📂 Folder Structure
+ ## 📂 Folder Structure
 Each project has its own dedicated folder with the following structure:
 ```
 📁 ML_Projects/
- ├── 📁 Image_Classification/
- │   ├── dataset/
- │   ├── Image_Classification_Model.ipynb
+ ├── 📁 Project_1_Name/
+ │   ├── dataset.csv
+ │   ├── Project_1_EDA.ipynb
+ │   ├── README.md
+ │
+ ├── 📁 Project_2_Name/
+ │   ├── dataset.csv
+ │   ├── Project_2_EDA.ipynb
+ │   ├── README.md
+ │
+ ├── 📁 Project_3_Name/
+ │   ├── dataset.csv
+ │   ├── Project_3_EDA.ipynb
  │   ├── README.md
  │
  ├── README.md  (You are here)
